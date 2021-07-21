@@ -1,2 +1,2 @@
-# Hackerrank-dbms-question
-All hackerrank problem sollution
+A U B ( U - or) = A + B - A and B
+A U B = {1,2,3,4,5,6} + {2,3,4,5,6,7,8} - {2,3,4,5,6} = {1,2,3,4,5,6,2,3,4,5,6,7,8}-{2,3,4,5,6}={1,2,3,4,5,6,7,8}
