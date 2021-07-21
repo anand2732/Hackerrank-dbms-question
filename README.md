@@ -8,5 +8,7 @@ Only enter the correct integer in the answering box. Do not include any extra sp
 Answer--->> 8
 sollution-->>
 A U B ( U - or) = A + B - A and B
+
 A and B = A + B - A U B ( U - or)
+
 A U B = {1,2,3,4,5,6} + {2,3,4,5,6,7,8} - {1,2,3,4,5,6,7,8} = {1,2,3,4,5,6,2,3,4,5,6,7,8} - {1,2,3,4,5,6,7,8} = {2,3,4,5,6}
