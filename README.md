@@ -6,7 +6,9 @@ How many elements are present in A U B?
 Only enter the correct integer in the answering box. Do not include any extra spaces, tabs or newlines.
 
 Answer--->> 8
+
 sollution-->>
+
 A U B ( U - or) = A + B - A and B
 
 A and B = A + B - A U B ( U - or)
